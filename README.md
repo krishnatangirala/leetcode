@@ -20,7 +20,7 @@ To run any of the solutions locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <YOUR_REPO_URL>
+    git clone https://github.com/krishnatangirala/leetcode.git
     ```
 2.  **Navigate to the directory:**
     ```bash

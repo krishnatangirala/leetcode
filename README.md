@@ -10,7 +10,7 @@ This repository contains my solutions for various LeetCode problems, implemented
 
 ## ✨ Structure and Conventions
 
-* **Organization:** Files are grouped into directories based on the primary **data structure** or **algorithmic technique** used (e.g., `array/`, `dp/`, `linked_list/`).
+* **Organization:** Files are grouped into directories based on the primary **data structure** or **algorithmic technique** used (e.g., `arrays/`, `dp/`, `linked_list/`).
 * **Code Style:** Solutions adhere to **PEP 8** standards.
 * **Testing:** Each solution file contains a self-contained test block using the `if __name__ == "__main__":` pattern, allowing the file to be run directly to verify test cases.
 
@@ -28,7 +28,7 @@ To run any of the solutions locally:
     ```
 3.  **Run a specific solution:**
     ```bash
-    python array/two_sum.py
+    python arrays/two_sum.py
     ```
 
 ***
@@ -47,7 +47,7 @@ For your LeetCode collection, this block is the perfect place to write **local v
 When solving a LeetCode problem, the required output is a `class Solution` with a specific method.
 
 ```python
-# array/two_sum.py
+# arrays/two_sum.py
 
 class Solution:
     """

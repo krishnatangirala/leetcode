@@ -4,9 +4,9 @@ This repository contains my solutions for various LeetCode problems, implemented
 
 ## 📊 Index of Problems
 
-| # | Problem Title | Difficulty | Topic/Data Structure | Solution File | Time Complexity |
-|---|---|---|---|---|---|
-| 1 | **Two Sum** | Easy | Array, Hash Map | [`array/two_sum.py`](array/two_sum.py) | O(n) |
+| # | Problem Title | Difficulty | Topic/Data Structure | Solution File                                              | Time Complexity |
+|---|---|---|---|------------------------------------------------------------|---|
+| 1 | **Two Sum** | Easy | Array, Hash Map | [`examples/arrays/two_sum.py`](examples/arrays/two_sum.py) | O(n) |
 
 ## ✨ Structure and Conventions
 
